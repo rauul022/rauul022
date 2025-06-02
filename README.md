@@ -6,21 +6,4 @@ Este perfil de GitHub es donde voy a compartir los proyectos que vaya creando, y
 
 ---
 
-## 🚀 Sobre mí
-#!/bin/bash
-echo "Iniciando perfil de Raul..."
 
-ROLE="Ingeniero recién graduado"
-FOCUS="Aprender, crear, compartir"
-TOOLS=("Software" "Hardware" "SaaS")
-VALUES=("Responsabilidad" "Trabajo en equipo" "Motivación")
-
-echo "Rol: $ROLE"
-echo "Enfoque actual: $FOCUS"
-echo "Intereses: ${TOOLS[@]}"
-echo "Valores personales: ${VALUES[@]}"
-
-</pre>
-dcvdv
----
-reef
