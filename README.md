@@ -19,3 +19,8 @@ echo "Rol: $ROLE"
 echo "Enfoque actual: $FOCUS"
 echo "Intereses: ${TOOLS[@]}"
 echo "Valores personales: ${VALUES[@]}"
+
+</pre>
+
+---
+reef
