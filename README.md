@@ -6,4 +6,55 @@ Este perfil de GitHub es donde voy a compartir los proyectos que vaya creando, y
 
 ---
 
+```bash
+echo "Iniciando perfil de Raul..."
 
+ROLE="Ingeniero recién graduado"
+FOCUS="Aprender, crear, compartir"
+TOOLS=("Software" "Hardware" "SaaS")
+VALUES=("Responsabilidad" "Trabajo en equipo" "Motivación")
+
+echo "Rol: $ROLE"
+echo "Enfoque actual: $FOCUS"
+echo "Intereses: ${TOOLS[@]}"
+echo "Valores personales: ${VALUES[@]}"
+
+```
+
+---
+
+## 🧰 Mis herramientas
+
+- Lenguajes: `Python`, `Java`, `JavaScript`, `HTML/CSS`, `Bash`, `C`, `C++`
+- Frameworks & Librerías: `Spring Boot`, `React`, `Tailwind`, `Node.js`, `Flask`, `NumPy`, `Pandas`
+- Bases de datos: `PostgreSQL`, `Supabase`, `Firebase`, `MySQL`, `MongoDB` 
+- Otros: `Linux`, `Git`, `Docker`, `VS Code`, `MATLAB`, `Arduino`, `LTspice`, `IntelliJ`
+
+---
+
+## 📂 Proyectos destacados
+
+Algunos de los proyectos en los que he trabajado o estoy desarrollando:
+
+- [RFPGA Web](https://github.com/tu_usuario/repositorio-fpga): Prácticas realizadas sobre FPGAs con documentación y ejemplos en VHDL/Verilog. Desarrollado durante el curso de Arquitectura de Sistemas Integrados en la Universidad Complutense de Madrid.
+
+*(Pendiente de actualizar...)*
+
+---
+
+## 📫 Contacto
+
+Algunas de mis redes sociales: 
+
+- 📧 Email: _gonzalezraul2002@gmail.com_
+- 🐦 Twitter: _[@rauul_022](https://twitter.com/rauul_022)_
+- 🔗 LinkedIn: _[Raúl González](https://www.linkedin.com/in/raul-gonzalez-gomez-863139261/)_
+- 📅 Disponible para colaboraciones y proyectos freelance
+
+---
+
+## 🌱 En constante crecimiento
+
+Este perfil irá creciendo a lo largo del tiempo. Gracias por pasarte por aquí!
+
+ 
