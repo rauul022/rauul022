@@ -36,8 +36,6 @@ echo "Valores personales: ${VALUES[@]}"
 
 Algunos de los proyectos en los que he trabajado o estoy desarrollando:
 
-- [RFPGA Web](https://github.com/tu_usuario/repositorio-fpga): Prácticas realizadas sobre FPGAs con documentación y ejemplos en VHDL/Verilog. Desarrollado durante el curso de Arquitectura de Sistemas Integrados en la Universidad Complutense de Madrid.
-
 *(Pendiente de actualizar...)*
 
 ---
